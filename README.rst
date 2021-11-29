@@ -27,6 +27,7 @@ Install
 .. code-block:: console
 
     pip install sqlformatter
+    pip install git+https://github.com/wt3c/sqlformatter.git
 
 Usage
 -----
